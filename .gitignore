@@ -1,0 +1,6 @@
+artwork*
+**data/
+karabiner/automatic_backups
+
+# macos files
+.DS_Store
